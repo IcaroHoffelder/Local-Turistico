@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f5f4f0;
+  position: relative;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
+h3 {
+  font-size: 16px;
+  color: #e1624f;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 36px;
+  color: #1b1b1b;
+}
+
+.Paragrafo1 {
+  font-size: 16px;
+  color: #333333;
+  margin-top: 12px;
+  text-align: center;
+  font-style: italic;
+}
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 64px;
+  color: #d9d9d9;
+  opacity: 0.3;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+p {
+  font-size: 16px;
+  color: #333333;
+  margin-top: 12px;
+  text-align: left;
+}
+
+h2 {
+  font-size: 28px;
+  color: #1b1b1b;
+}
+
+.Paragrafo2 {
+  margin-top: -24px;
+  font-size: 16px;
+  color: #333333;
+  text-align: Center;
+}
+
+footer {
+  font-weight: bold;
+  text-align: center;
+  color: #333333;
+  font-size: 14px;
+  padding: 48px;
+  position: relative;
+  z-index: 1;
+}
+
+.envolto {
+  background: #f5f4f0;
+  border-radius: 24px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+  max-width: 1120px;
+  margin: 40px auto 0 auto;
+  padding: 40px 32px;
+  position: relative;
+  z-index: 2;
+}
+
+#ConheçaACidade\ X h1 {
+  margin-bottom: 40px;
+}
+
+.Paragrafo3 {
+  font-size: 16px;
+  color: #333333;
+  text-align: left;
+  margin-bottom: 64px;
+}
+
+h5 {
+  font-size: 16px;
+  color: #333333;
+}
+
+ul {
+  padding-left: 18px;
+  margin-bottom: 48px;
+  font-weight: bold;
+  li:nth-child(1) {
+    color: #0c51a7;
+  }
+  li:nth-child(2) {
+    color: #e95e10;
+  }
+  li:nth-child(3) {
+    color: #e5245e;
+  }
+}
